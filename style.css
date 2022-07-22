@@ -1,0 +1,16 @@
+body
+{
+    background-color: #7ed6df;
+    text-align: center;
+}
+#a{
+    background-color: #B33771;
+    width: 600px;
+    border-radius: 100px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
